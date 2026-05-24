@@ -14,10 +14,10 @@ Aplicativo mobile para consultar cidades e estado por código DDD usando a Brasi
 
 1. **Clone ou baixe o projeto**
 
-2. Instale as dependências
+2. **Instale as dependências**
    npm install
 
-3. Execute o projeto
+3. **Execute o projeto**
    npm start
 
 4. Escaneie o QR Code com o app Expo Go ou aperte "W" para ir para Web direto
